@@ -25,7 +25,7 @@ import android.content.Context;
 import com.sergeich.autoradioclub.messages.view.MessageListFragment;
 
 import io.reist.visum.ComponentCache;
-import io.reist.visum.view.VisumClient;
+import io.reist.visum.VisumClient;
 
 public class ArcComponentCache extends ComponentCache {
 
